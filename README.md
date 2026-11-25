@@ -58,7 +58,7 @@
 
 <!-- TECH STACK -->
 
-<h2 align="center">🛠️ TECHNICAL SKILLS</h2>
+<h2 align="center"> TECHNICAL SKILLS</h2>
 
 <h3 align="center">Programming Languages</h3>
 
